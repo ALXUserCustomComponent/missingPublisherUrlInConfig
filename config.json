@@ -2,7 +2,7 @@
   "version": "1.0.15-01",
   "logo": "https://www.mypublisher.com/somelogo.jpg",
   "publisher": "The first Legal Publisher - 1",
-  "publisher_url": "",
+  "publisher_url": null,
   "parameters": [
     {
       "parameter_name": "Max deal size",

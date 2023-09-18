@@ -2,7 +2,7 @@
   "version": "1.0.15-01",
   "logo": "https://www.mypublisher.com/somelogo.jpg",
   "publisher": "The first Legal Publisher - 1",
-  "publisher_url": "aa",
+  "publisher_url": "https://www.google.pl/",
   "parameters": [
     {
       "parameter_name": "Max deal size",
